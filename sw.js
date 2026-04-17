@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mkslb-solat-v1';
+const CACHE_NAME = 'mkslb-solat-v2';
 const urlsToCache = [
   './',
   './index.html',
